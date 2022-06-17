@@ -117,6 +117,9 @@ We thank the following people for their extensive assistance in the development 
 - [gulfshores](https://github.com/gulfshores)
 - [pallolason](https://github.com/pallolason)
 - [silviamorins](https://github.com/silviamorins)
+- [Lasse Folkersen](http://github.com/lassefolkersen)
+- [Anders Sune Pedersen](http://github.com/asp8200)
+
 
 ## Acknowledgements
 
